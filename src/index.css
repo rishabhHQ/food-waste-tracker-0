@@ -1,0 +1,54 @@
+/* ── Global base styles ──────────────────────────────────────────── */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'DM Sans', system-ui, sans-serif;
+    background-color: #FAF5EC;
+    color: #2E2A25;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Fraunces', Georgia, serif;
+  }
+
+  /* Scrollbar styling – thin warm look */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #F0E8D6; }
+  ::-webkit-scrollbar-thumb { background: #C8B89A; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #A89880; }
+}
+
+@layer components {
+  /* Focus ring using clay color */
+  .focus-ring {
+    @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-clay focus-visible:ring-offset-2 focus-visible:ring-offset-cream;
+  }
+
+  /* Stat number using serif */
+  .stat-number {
+    @apply font-serif text-4xl font-semibold tracking-tight text-ink;
+  }
+
+  /* Sidebar link base */
+  .nav-link {
+    @apply flex items-center gap-3 px-3 py-2.5 rounded-xl text-sm font-medium transition-all duration-150;
+  }
+
+  .nav-link-active {
+    @apply bg-clay text-white shadow-sm;
+  }
+
+  .nav-link-idle {
+    @apply text-ink hover:bg-cream-dark hover:text-ink;
+  }
+}
+
+/* Horizontal scroll for tables on mobile */
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}

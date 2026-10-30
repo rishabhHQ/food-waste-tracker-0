@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rec-r-001",
+    "category": "Quantity",
+    "title": "Reduce lunch prep by 8 kg on weekdays",
+    "reasoning": "Over the last 30 days, weekday lunch preparation averages 68 kg but only 61 kg is consumed. Reducing preparation to 60 kg aligns with actual demand and cuts weekly waste by 11.8%, saving approximately 40 kg of food per month.",
+    "expectedSavingKg": 8.0,
+    "expectedSavingCost": 1280,
+    "currency": "INR",
+    "priority": "high",
+    "icon": "Scale",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-002",
+    "category": "Quantity",
+    "title": "Cut weekend dinner portions by 12 kg",
+    "reasoning": "Weekend dinner prep averaged 78 kg over the last 4 weekends, but consumption peaked at 63 kg, leaving 15–20 kg wasted per session. Reducing to 65 kg would align prep with the 83rd-percentile consumption pattern and cut dinner waste by 19.2%.",
+    "expectedSavingKg": 12.0,
+    "expectedSavingCost": 1920,
+    "currency": "INR",
+    "priority": "high",
+    "icon": "Scale",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-003",
+    "category": "Menu",
+    "title": "Replace paneer-based dishes on low-attendance Tuesdays",
+    "reasoning": "Tuesdays historically see 12% lower footfall than the weekly average. Paneer dishes carry a 3× higher unit cost and spoil faster. Substituting with lentil or vegetable preparations on Tuesdays would reduce perishable waste by an estimated 6.4 kg/week and save ₹9,800/month in ingredient costs.",
+    "expectedSavingKg": 6.4,
+    "expectedSavingCost": 9800,
+    "currency": "INR",
+    "priority": "medium",
+    "icon": "ChefHat",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-004",
+    "category": "Menu",
+    "title": "Introduce a rotating 'use-it-up' daily special",
+    "reasoning": "Analysis shows 14 kg of surplus cooked food from lunch is discarded each day because it is not re-served at dinner. A clearly marketed daily special built from lunch leftovers—served at a modest discount—could reclaim 8–10 kg per day, reducing overall daily waste by roughly 14% without additional procurement cost.",
+    "expectedSavingKg": 9.0,
+    "expectedSavingCost": 1440,
+    "currency": "INR",
+    "priority": "medium",
+    "icon": "ChefHat",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-005",
+    "category": "Redistribution",
+    "title": "Partner with local NGO for surplus redistribution",
+    "reasoning": "On days where waste exceeds 18%, an average of 22 kg of perfectly edible food is discarded. A same-day pickup partnership with a local NGO (e.g., Robin Hood Army or Feeding India) could redirect 80–90% of this surplus, benefiting ~60 people per high-waste day and improving the facility's sustainability score.",
+    "expectedSavingKg": 18.0,
+    "expectedSavingCost": 2880,
+    "currency": "INR",
+    "priority": "high",
+    "icon": "HandHeart",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-006",
+    "category": "Redistribution",
+    "title": "Set up in-house staff meal from surplus breakfast",
+    "reasoning": "Breakfast generates the highest waste-to-prepared ratio (avg 14.1%) partly because service ends abruptly at 9:30 AM. Allowing kitchen and facility staff to take surplus breakfast servings between 9:30–10:00 AM could consume an additional 4–6 kg daily, reducing breakfast waste by up to 35% with zero additional cost.",
+    "expectedSavingKg": 5.0,
+    "expectedSavingCost": 800,
+    "currency": "INR",
+    "priority": "medium",
+    "icon": "HandHeart",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-007",
+    "category": "Expiry",
+    "title": "Adopt FIFO cold-storage labelling for vegetables",
+    "reasoning": "Three of the last five high-waste events were traced to vegetables exceeding shelf life before use. Implementing First-In-First-Out (FIFO) labelling with dated stickers in cold storage would ensure older stock is consumed first. Projected reduction in expiry-driven waste: 5.2 kg/week, or ~22 kg/month.",
+    "expectedSavingKg": 5.2,
+    "expectedSavingCost": 832,
+    "currency": "INR",
+    "priority": "low",
+    "icon": "Timer",
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "rec-r-008",
+    "category": "Scheduling",
+    "title": "Stagger dinner service start by 30 minutes on event days",
+    "reasoning": "On days with scheduled events, dinner often starts while many guests are still seated at the event, leading to batch cooking that sits too long and degrades in quality—driving a 21% higher discard rate. Delaying dinner service by 30 minutes on event days allows better batch timing and could cut event-day dinner waste by 9.3 kg per occurrence.",
+    "expectedSavingKg": 9.3,
+    "expectedSavingCost": 1488,
+    "currency": "INR",
+    "priority": "medium",
+    "icon": "Clock",
+    "createdAt": "2026-10-29"
+  }
+]

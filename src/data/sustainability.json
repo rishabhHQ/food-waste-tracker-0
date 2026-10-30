@@ -1,0 +1,18 @@
+{
+  "totalFoodSavedKg": 847.3,
+  "totalCostSavedINR": 135568,
+  "co2ReductionKg": 2118.25,
+  "treesEquivalent": 96,
+  "monthlyData": [
+    { "month": "May 2026", "foodSavedKg": 98.2,  "costSavedINR": 15712, "wastePercent": 14.2 },
+    { "month": "Jun 2026", "foodSavedKg": 112.4, "costSavedINR": 17984, "wastePercent": 12.8 },
+    { "month": "Jul 2026", "foodSavedKg": 134.1, "costSavedINR": 21456, "wastePercent": 11.3 },
+    { "month": "Aug 2026", "foodSavedKg": 158.7, "costSavedINR": 25392, "wastePercent": 9.7  },
+    { "month": "Sep 2026", "foodSavedKg": 172.3, "costSavedINR": 27568, "wastePercent": 8.4  },
+    { "month": "Oct 2026", "foodSavedKg": 171.6, "costSavedINR": 27456, "wastePercent": 8.1  }
+  ],
+  "beforeAfter": {
+    "before": { "wastePercent": 18.4, "monthlyWasteKg": 312.6, "monthlyCostINR": 50016 },
+    "after":  { "wastePercent": 8.2,  "monthlyWasteKg": 139.4, "monthlyCostINR": 22304 }
+  }
+}

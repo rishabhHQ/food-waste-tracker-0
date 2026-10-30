@@ -1,0 +1,122 @@
+[
+  {
+    "id": "alert-001",
+    "type": "High Waste",
+    "severity": "critical",
+    "title": "Dinner waste exceeded 20% threshold",
+    "description": "Last night's dinner had 14.2 kg of waste (22.3%), driven by a last-minute headcount reduction of 40 guests. Review event coordination workflow to ensure prep quantities are adjusted when RSVPs drop.",
+    "date": "2026-10-28",
+    "read": false,
+    "dismissed": false
+  },
+  {
+    "id": "alert-002",
+    "type": "High Waste",
+    "severity": "critical",
+    "title": "Weekend lunch waste at 24.1% — catering overrun",
+    "description": "Saturday lunch preparation was 104 kg but only 79 kg was consumed, resulting in 25.1 kg of waste. The catering order was placed before the revised guest list was confirmed. Immediate review of the pre-order approval process is recommended.",
+    "date": "2026-10-26",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-003",
+    "type": "High Waste",
+    "severity": "warning",
+    "title": "Breakfast waste above 15% for 3 consecutive days",
+    "description": "Breakfast waste has averaged 16.4% across Mon–Wed this week (Oct 21–23). The primary driver appears to be over-preparation of idli batter on days with lower morning attendance. Consider reducing batch size by 20% on weekday mornings.",
+    "date": "2026-10-23",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-004",
+    "type": "High Waste",
+    "severity": "warning",
+    "title": "Dinner waste spike — event cancelled last minute",
+    "description": "Oct 15 dinner saw 18.7 kg wasted (21.4%) after a corporate dinner for 60 people was cancelled 2 hours before service. 38 kg of prepared food had no diners. Consider partnering with a redistribution service for time-sensitive surplus.",
+    "date": "2026-10-15",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-005",
+    "type": "Food Nearing Expiry",
+    "severity": "critical",
+    "title": "Paneer stock expires in 18 hours",
+    "description": "12 kg of paneer received on 2026-10-27 is approaching its 48-hour use-by window. It must be incorporated into today's lunch or dinner menu. If not used, it will need to be discarded at a cost of ₹1,920.",
+    "date": "2026-10-29",
+    "read": false,
+    "dismissed": false
+  },
+  {
+    "id": "alert-006",
+    "type": "Food Nearing Expiry",
+    "severity": "warning",
+    "title": "Leafy greens reaching expiry — use within 24 hours",
+    "description": "8.5 kg of spinach and methi (fenugreek) purchased on 2026-10-27 should be used within the next 24 hours. Incorporate into breakfast or lunch preparation today to avoid spoilage.",
+    "date": "2026-10-29",
+    "read": false,
+    "dismissed": false
+  },
+  {
+    "id": "alert-007",
+    "type": "Food Nearing Expiry",
+    "severity": "warning",
+    "title": "Yoghurt batch nearing expiry — 6 kg at risk",
+    "description": "6.2 kg of fresh yoghurt from the Oct 26 delivery is nearing its 72-hour shelf limit. Schedule this for use in today's dinner (raita or lassi preparation). Estimated value at risk: ₹620.",
+    "date": "2026-10-28",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-008",
+    "type": "Food Nearing Expiry",
+    "severity": "info",
+    "title": "Rice stock rotation recommended",
+    "description": "The older 25 kg bag of basmati rice (received Sep 28) should be rotated to front-of-store before the newer stock received Oct 10. No immediate spoilage risk, but FIFO practices recommend using older batches first.",
+    "date": "2026-10-27",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-009",
+    "type": "Stock Running Low",
+    "severity": "critical",
+    "title": "Cooking oil critically low — reorder immediately",
+    "description": "Only 4 litres of sunflower cooking oil remain in stock. At current consumption of ~3.5 litres/day, this will run out mid-morning tomorrow. Place an emergency reorder today to avoid service disruption.",
+    "date": "2026-10-29",
+    "read": false,
+    "dismissed": false
+  },
+  {
+    "id": "alert-010",
+    "type": "Stock Running Low",
+    "severity": "warning",
+    "title": "Lentil (dal) stock below 3-day threshold",
+    "description": "Current lentil stock (mixed dal) stands at 18 kg. At a daily usage of ~7 kg, this covers approximately 2.5 days. The reorder trigger is 21 kg; please raise a purchase order today to maintain the safety buffer.",
+    "date": "2026-10-28",
+    "read": false,
+    "dismissed": false
+  },
+  {
+    "id": "alert-011",
+    "type": "Stock Running Low",
+    "severity": "warning",
+    "title": "Tomato supply down to 1-day reserve",
+    "description": "Fresh tomato inventory is at 9 kg, approximately one day of usage. The regular supplier delivery is scheduled for Oct 31, which creates a potential shortfall tomorrow. Contact the backup vendor or reschedule the delivery.",
+    "date": "2026-10-29",
+    "read": true,
+    "dismissed": false
+  },
+  {
+    "id": "alert-012",
+    "type": "Stock Running Low",
+    "severity": "info",
+    "title": "Spice mix (garam masala) running low",
+    "description": "Garam masala stock is at 1.2 kg, which is approaching the 1 kg reorder point. Include in the next routine purchase order. No immediate risk to service, but plan to restock within the week.",
+    "date": "2026-10-27",
+    "read": true,
+    "dismissed": false
+  }
+]

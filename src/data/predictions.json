@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-11-01",
+    "dayOfWeek": "Sunday",
+    "mealType": "lunch",
+    "predictedKg": 95.0,
+    "confidence": 0.87,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-02",
+    "dayOfWeek": "Monday",
+    "mealType": "lunch",
+    "predictedKg": 62.5,
+    "confidence": 0.91,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-03",
+    "dayOfWeek": "Tuesday",
+    "mealType": "lunch",
+    "predictedKg": 64.0,
+    "confidence": 0.89,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-04",
+    "dayOfWeek": "Wednesday",
+    "mealType": "lunch",
+    "predictedKg": 63.5,
+    "confidence": 0.90,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-05",
+    "dayOfWeek": "Thursday",
+    "mealType": "lunch",
+    "predictedKg": 65.0,
+    "confidence": 0.88,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-06",
+    "dayOfWeek": "Friday",
+    "mealType": "lunch",
+    "predictedKg": 82.0,
+    "confidence": 0.85,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-07",
+    "dayOfWeek": "Saturday",
+    "mealType": "lunch",
+    "predictedKg": 98.5,
+    "confidence": 0.83,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-08",
+    "dayOfWeek": "Sunday",
+    "mealType": "lunch",
+    "predictedKg": 96.0,
+    "confidence": 0.86,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-09",
+    "dayOfWeek": "Monday",
+    "mealType": "lunch",
+    "predictedKg": 61.5,
+    "confidence": 0.92,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-10",
+    "dayOfWeek": "Tuesday",
+    "mealType": "lunch",
+    "predictedKg": 63.0,
+    "confidence": 0.90,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-11",
+    "dayOfWeek": "Wednesday",
+    "mealType": "lunch",
+    "predictedKg": 64.5,
+    "confidence": 0.89,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-12",
+    "dayOfWeek": "Thursday",
+    "mealType": "lunch",
+    "predictedKg": 66.0,
+    "confidence": 0.87,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-13",
+    "dayOfWeek": "Friday",
+    "mealType": "lunch",
+    "predictedKg": 84.0,
+    "confidence": 0.84,
+    "basedOnDays": 30
+  },
+  {
+    "date": "2026-11-14",
+    "dayOfWeek": "Saturday",
+    "mealType": "lunch",
+    "predictedKg": 99.0,
+    "confidence": 0.82,
+    "basedOnDays": 30
+  }
+]
